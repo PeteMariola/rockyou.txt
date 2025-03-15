@@ -1,16 +1,19 @@
 {
-    "Maria": {
-        "password": "abcd",
-        "rank": "MEGA",
-        "subscription_end": "2025-05-06 14:57:42",
-        "last_login": "2025-03-07 18:17:34",
-        "logins": 3
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "rank": "Ultra"
     },
-    "2": {
-        "password": "1",
-        "rank": "ULTRA",
-        "subscription_end": "2025-04-06 17:43:27",
-        "last_login": "2025-03-13 14:50:27",
-        "logins": 19
+    {
+      "username": "3",
+      "password": "3",
+      "rank": "Premium"
+    },
+    {
+      "username": "4",
+      "password": "4",
+      "rank": "extended"
     }
+  ]
 }
